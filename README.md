@@ -1,8 +1,6 @@
 # Airlines-Analytics-and-Insights
 Airline Analytics through Machine Learning Approaches  
 
-# About - Airline Analytics and Insights application from data analysis  
-
 # Basic Idea  
 
 * Regardless of data size, our Airline Analytics application should provide insights quickly from data analysis.  
